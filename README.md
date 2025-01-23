@@ -33,6 +33,7 @@ Acesse o **Codespaces**, espere o programa carregar as bibliotecas, e você já 
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=564319316)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/gleilsonpedro/covid_data_analysis_with_IPCA-Brasil)
 ---
 # 🔵 Somos Python Juniors 
 ### **DiversidadeTech**
